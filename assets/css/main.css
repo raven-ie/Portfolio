@@ -3757,9 +3757,9 @@
 		}
 
 /* Footer */
-#footer .inner h2{
-	display: none;
-}
+	#footer .inner h2{
+		display: none !important;
+	}
 	#footer .inner {
 		/*padding: 5em 0 3em 0 ;*/
 		padding: 2em 0 0 0;*/
