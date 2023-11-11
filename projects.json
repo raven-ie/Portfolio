@@ -1,0 +1,77 @@
+[{
+    "game": "Graven",
+    "image": "portfolio-graven.jpg",
+    "image_wide": "portfolio-graven_wide.jpg",
+    "platforms": "PC, PS5, XSX/XSS, NINTENDO SWITCH",
+    "engine": "UE4",
+    "url": "https://www.fulqrumpublishing.com/game/754-graven",
+    "url_": "https://store.steampowered.com/app/1371690/GRAVEN/"
+  },
+  {
+    "game": "Remnant: From the Ashes",
+    "image": "portfolio-remnant.jpg",
+    "image_wide": "portfolio-remnant_wide.jpg",
+    "platforms": "NINTENDO SWITCH",
+    "engine": "UE4",
+    "url": "https://www.nintendo.com/store/products/remnant-from-the-ashes-switch/",
+    "url_": "https://www.nintendo.com/store/products/remnant-from-the-ashes-switch/"
+  },
+  {
+    "game": "Ghostrunner",
+    "image": "portfolio-ghostrunner.jpg",
+    "image_wide": "portfolio-ghostrunner_wide.jpg",
+    "platforms": "NINTENDO SWITCH, PS4, XBOX ONE, PS5, XSX/XSS",
+    "engine": "UE4",
+    "url": "https://ghostrunnergame.com/",
+    "url_": "https://store.steampowered.com/app/1139900/Ghostrunner/"
+  },
+  {
+    "game": "Daymare 1998",
+    "image": "portfolio-daymare.jpg",
+    "image_wide": "",
+    "platforms": "PS4, XBOX ONE",
+    "engine": "UE4",
+    "url": "http://daymarethegame.com",
+    "url_": "https://store.steampowered.com/app/842100/Daymare_1998/"
+  },
+  {
+    "game": "Ancestors Legacy",
+    "image": "portfolio-ancestors.jpg",
+    "image_wide": "portfolio-ancestors_wide.jpg",
+    "platforms": "PS4",
+    "engine": "UE4",
+    "url": "https://destructivecreations.pl/ancestors-legacy/"
+  },
+  {
+    "game": "Rad Rodgers",
+    "image": "portfolio-rad.jpg",
+    "image_wide": "",
+    "platforms": "PC, XBOX ONE, PS4, NINTENDO SWITCH",
+    "engine": "UE4",
+    "url": "http://www.radrodgers.com/"
+  },
+  {
+    "game": "Bombshell",
+    "image": "portfolio-bombshell.jpg",
+    "image_wide": "",
+    "platforms": "PC",
+    "engine": "UE3",
+    "url": "http://www.bombshell.com/"
+  },
+  {
+    "game": "Rise of the Triad",
+    "image": "portfolio-rott.jpg",
+    "image_wide": "",
+    "platforms": "PC",
+    "engine": "UE3",
+    "url": "http://store.steampowered.com/app/217140/Rise_of_the_Triad/"
+  },
+  {
+    "game": "Blue Moon Rising",
+    "image": "portfolio-bmr.jpg",
+    "image_wide": "",
+    "platforms": "PC",
+    "engine": "UE2",
+    "url": "http://www.moddb.com/mods/blue-moon-rising"
+  }
+]
