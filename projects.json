@@ -1,12 +1,31 @@
-[{
-    "game": "Graven",
-    "image": "portfolio-graven.jpg",
-    "image_wide": "portfolio-graven_wide.jpg",
-    "platforms": "PC, PS5, XSX/XSS, NINTENDO SWITCH",
-    "engine": "UE4",
-    "url": "https://www.fulqrumpublishing.com/game/754-graven",
-    "url_": "https://store.steampowered.com/app/1371690/GRAVEN/"
-  },
+[
+{
+  "game": "Tempest Rising",
+  "image": "portfolio-tr.jpg",
+  "image_wide": "portfolio-tr_wide.jpg",
+  "platforms": "PC",
+  "engine": "UE5",
+  "url": "https://tempestrising.com/",
+  "url_": "https://store.steampowered.com/app/1486920/Tempest_Rising/"
+},
+{
+  "game": "Phantom Fury",
+  "image": "portfolio-pf.jpg",
+  "image_wide": "portfolio-pf_wide.jpg",
+  "platforms": "PC, PS5, PS4, XSX/XSS, XBO",
+  "engine": "UE4",
+  "url": "https://3drealms.com/games/phantom-fury/",
+  "url_": "https://store.steampowered.com/app/1733240/Phantom_Fury/"
+},
+{
+  "game": "Graven",
+  "image": "portfolio-graven.jpg",
+  "image_wide": "portfolio-graven_wide.jpg",
+  "platforms": "PC, PS5, PS4, XSX/XSS, XBO",
+  "engine": "UE4",
+  "url": "https://3drealms.com/games/graven/",
+  "url_": "https://store.steampowered.com/app/1371690/GRAVEN/"
+},
   {
     "game": "Remnant: From the Ashes",
     "image": "portfolio-remnant.jpg",
